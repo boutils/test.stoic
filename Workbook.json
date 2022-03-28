@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 8,
+  "workfolders": [
+    {
+      "id": "XZ3CEBko6n3LEtaxGY88MU",
+      "name": "Workfolder1"
+    }
+  ],
+  "sourceControl": {
+    "owner": "boutils",
+    "repo": "test.stoic",
+    "branch": "main",
+    "lastCommitSha": null,
+    "dirty": false
+  }
+}
